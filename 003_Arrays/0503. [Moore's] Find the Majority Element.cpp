@@ -1,3 +1,5 @@
+// If any element appears more than n / 2 times, it is the majority element
+
 int majorityElement(vector<int> v) {
 	
 	int N = v.size();
